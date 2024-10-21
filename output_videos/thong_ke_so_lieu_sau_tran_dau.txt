@@ -1,0 +1,4 @@
+Bảng thống kê kiểm soát bóng của các đội:
+Đội 1: 279 lần kiểm soát bóng (Chiếm tỉ lệ 37.20%)
+Đội 2: 471 lần kiểm soát bóng (Chiếm tỉ lệ 62.80%)
+=> Qua đó, ta thấy đội 1 đang thể hiện tốt hơn đội 2.
